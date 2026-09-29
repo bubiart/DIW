@@ -1,0 +1,50 @@
+#titular-principal {
+    font-size: clamp(2.2 rem, 5 vw, 4.2 rem);
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-wrap: balance;
+    color: #e11d48;
+
+}
+
+h2, h3{
+    color: #000000;
+    font-weight: 700;
+    text-wrap: balance;
+}
+
+h4, h5, h6 {
+    color: #71717a;
+    font-size: 2.42em;
+}
+
+p {
+    line-height: 3.52;
+    text-wrap: pretty;
+    color: #27272a;
+}
+
+article p {
+    background-color: #09090b;
+    color: #ffffff;
+    text-align: justify;
+    font-weight: 500;
+}
+
+a:hover{
+    font-weight: 700;
+    color: #000000;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: lower-alpha;
+}
+
+dl dt{
+    font-weight: 600;
+    color: #e11d48;
+}
