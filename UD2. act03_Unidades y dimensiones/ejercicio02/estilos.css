@@ -1,0 +1,29 @@
+* ,
+
+::before
+::after
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.abuelo{
+    width: 800px;
+    padding: 20px;
+    border-width: 2px;
+    border-color: dashed gray;
+}
+
+.padre{
+    width: 50%;
+    padding: 20px;
+    background-color: lightblue
+}
+
+.hijo{
+    width: 50%;
+    background-color: gold;
+}

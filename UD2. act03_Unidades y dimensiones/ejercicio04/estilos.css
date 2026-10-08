@@ -1,0 +1,40 @@
+* ,
+
+::before
+::after
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.portada{
+    min-height: 100vh;
+    padding: 2rem;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+}
+
+.portada h1{
+    font-size: 8vw;
+}
+
+#section1{
+    padding: 2rem;
+    min-height: 50vh;
+    background-color: cadetblue;
+}
+
+#section2{
+    padding: 2rem;
+    min-height: 50vh;
+    background-color: darkkhaki;
+}
+
+.banda{
+    width: 100vw;
+    padding: 1rem;
+    background-color: orange;
+}
