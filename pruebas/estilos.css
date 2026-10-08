@@ -1,0 +1,21 @@
+* ,
+
+::before
+::after
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.articulos {
+    display: flex;
+    justify-content: space-around;
+}
+
+.articulos div {
+    border: 1px solid rgb(104, 63, 9);
+
+}
+

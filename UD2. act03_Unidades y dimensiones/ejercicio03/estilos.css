@@ -1,0 +1,56 @@
+*,
+
+::before
+::after
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.tarjeta-px{
+    width: 320px;
+    padding: 24px;
+    margin-bottom: 32px;
+    background-color: darkred;
+    border: 1px solid burlywood;
+}
+
+.tarjeta-px h2{
+    font-size: 28px;
+}
+
+.tarjeta-px p{
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.tarjeta-px .boton{
+    padding: 8px 20px;
+    border-radius: 4px;
+}
+
+.tarjeta-rem{
+    width: 20rem;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    background-color: indianred;
+    border: 0,0625rem solid  black;
+
+}
+
+.tarjeta-rem h2{
+    font-size: 1.75rem;
+}
+
+.tarjeta-rem p{
+    font-size: 1,125rem;
+    margin-bottom: 0.75rem;
+}
+
+.tarjeta-px .boton{
+    padding: 0.5rem 1.25rem;
+    border-radius: 0.25rem;
+}

@@ -1,0 +1,26 @@
+* ,
+
+::before
+::after
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.fija{
+    width: 600px;
+    padding: 20px;
+    background-color: tomato;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.fluida{
+    width: 50%;
+    padding: 20px;
+    background-color: seagreen;
+    color: white;
+}
